@@ -1,0 +1,21 @@
+:root {
+    --primary-color: #161d27; 
+    --light-color: #ffffff;  
+}
+
+body{
+    font-family: 'Bebas Neue', cursive;
+font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 15px;
+    color: var(--primary-color);
+    letter-spacing: 0,5cm;
+}
+.bg-primary{background-color: var(--primary-color) !important;}
+
+.navbar {
+    min-height: 80px;
+}
+
+.nav-link {
+    color: var(--light-color);
+}

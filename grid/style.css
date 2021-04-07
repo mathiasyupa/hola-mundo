@@ -1,12 +1,47 @@
-body (
-	font-family: 'Titillium Web', sans-serif;
-	)
+/* Archivo que permite agregaar estilos o formatos a paginas web*/
+body {
+  font-family: sans-serif;
+  background-color: white;
+}
 
-.navbar	(
-	background-colo: #ffffff;
-	box-shadow: 0 2px 4px 0 rgba(0, 0, 0 ,05);
-main-height: 100px;
-	)
+.navbar {
+  background-color: #ffffff;
+}
 
+.nav-link {
+  color: chocolate;
+}
 
-.nav-link	(color: #lalala; )
+.info,
+.barra{
+padding: 10px;
+}
+.info{
+	background-color:teal;
+}
+
+.barra{
+	background-color: lightgray;
+	
+}  
+.barra h1{
+	color: black;
+}
+
+h1{
+	color:goldenrod;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: 'Bebas Neue', cursive;
+}
+p{
+	font-weight: bold;
+}
+
+.barra p{
+	color: grey;
+}
+
+.info p{
+	color: lightseagreen;
+}

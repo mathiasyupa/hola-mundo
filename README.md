@@ -9,3 +9,5 @@
 
 #ibrerias a utilizar
 - https://getbootstrap.com/
+VIDEIN
+https://www.youtube.com/watch?v=7TQqtC287OI
